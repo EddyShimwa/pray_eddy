@@ -2,10 +2,9 @@ import React from 'react'
 
 const Projects = () => {
   return (
-    <div>
-      <p>Hello from projects section</p>
-    </div>
+    <section id="projects" className='h-screen bg-red-200 w-full'>
+      <div>Hello From projects</div>
+    </section>
   )
 }
-
 export default Projects

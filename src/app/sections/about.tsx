@@ -1,10 +1,12 @@
+'use client';
 import React from 'react'
 
 const AboutPage = () => {
   return (
-    <div>
-      <p>Hello from About page</p>
-    </div>
+<section id="about" className='h-screen bg-gray-300 w-full'>
+    <h1>Hello from About Section</h1>
+</section>
+
   )
 }
 
